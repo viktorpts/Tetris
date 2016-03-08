@@ -1,2 +1,3 @@
 # Tetris
-1
+
+Educational Tetris implementation
